@@ -1,0 +1,14 @@
+{
+    "test": {
+        "PORT": 1800,
+        "DATABASE": "sandbox_test",
+        "USERNAME": "root",
+        "PASSWORD": "password"
+    },
+    "development": {
+        "PORT": 8080,
+        "DATABASE": "sandbox",
+        "USERNAME": "root",
+        "PASSWORD": "password"
+    }
+}
